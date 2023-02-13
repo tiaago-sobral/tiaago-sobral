@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Tiago Sobral 🖐️
   
- ![Tiago Sobral GitHub stats](https://github-readme-stats-sigma-five.vercel.app?username=tiaago-sobral&show_icons=true&theme=dracula&count_private=true)
+ ![Tiago Sobral GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tiaago-sobral&show_icons=true&theme=dracula&count_private=true)
  
 
 [![Linkedin](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.linkedin.com/in/tiago-sobral-a914b44b/)
