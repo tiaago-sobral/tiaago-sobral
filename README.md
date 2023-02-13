@@ -1,11 +1,7 @@
 ## Olá! Eu sou o Tiago Sobral 🖐️
   
- ![Tiago Sobral GitHub stats](https://github-readme-stats.vercel.app/api?username=tiaago-sobral&show_icons=true&theme=dracula&count_private=true)
+ ![Tiago Sobral GitHub stats](https://github-readme-stats-sigma-five.vercel.app?username=tiaago-sobral&show_icons=true&theme=dracula&count_private=true)
  
- <a href="https://github.com/natgeo-wong">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaago-sobral&theme=onedark&hide=jupyter%20notebook&layout=compact" />
-   
-  </a>
 
 [![Linkedin](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.linkedin.com/in/tiago-sobral-a914b44b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiaago_sobral/)
