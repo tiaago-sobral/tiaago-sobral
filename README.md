@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Tiago Sobral 🖐️
   
- ![Tiago Sobral GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodq&show_icons=true&theme=dracula&count_private=true)
+ ![Tiago Sobral GitHub stats](https://github-readme-stats.vercel.app/api?username=tiaago-sobral&show_icons=true&theme=dracula&count_private=true)
  
  
 
