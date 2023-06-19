@@ -31,6 +31,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
  
 <div> 
 
-<h3 align="left">Languages and Tools:</h3>
 
 
